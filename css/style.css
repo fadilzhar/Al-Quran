@@ -1,0 +1,12 @@
+
+.card-surat{
+    cursor: pointer;
+    transition: .4 ease;
+    color: white;
+
+}
+
+.card-surat:hover{
+    background-color: black
+}
+
