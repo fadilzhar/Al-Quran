@@ -2,11 +2,12 @@
 .card-surat{
     cursor: pointer;
     transition: .4 ease;
-    color: white;
+  color: black;
 
 }
 
 .card-surat:hover{
-    background-color: black
+    background-color:black;
+    color: white
 }
 
